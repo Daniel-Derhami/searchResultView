@@ -28,6 +28,10 @@ body {
     color:#D9230F;
 }
 
+.search-query:focus + button {
+        z-index: 3;   
+}
+
 
 #ThumbNails{
   padding:150px 0;
